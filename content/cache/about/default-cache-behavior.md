@@ -40,6 +40,8 @@ To cache additional content, see [Page Rules](/cache/how-to/create-page-rules/) 
 
 ## Customization options and limitations
 
+This is an extra sentence I am adding to an existing developer document
+
 Cloudflare’s CDN provides several cache customization options:
 
 - Caching behavior for individual URLs via [Cloudflare Page Rules](/cache/how-to/create-page-rules/)
